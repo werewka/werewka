@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @werewka
 - 👀 I’m interested in Quality Assurence
-- 🌱 I’m currently learning QA manual
+- 🌱 I’m currently learning Automation
 - 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me .by e-mail..
 
